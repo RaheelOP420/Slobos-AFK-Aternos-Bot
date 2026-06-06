@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "swordart.play.hosting",
-    "port": 25565,
-    "version": "",
+    "ip": "protea.seedloaf.com",
+    "port": 49321,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {

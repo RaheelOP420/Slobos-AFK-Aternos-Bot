@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "bakchodismp.seedloaf.gg",
-    "port": 49321,
+    "ip": "protea.seedloaf.com",
+    "port": 42424,
     "version": "",
     "try-creative": false
   },
